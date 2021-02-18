@@ -18,6 +18,8 @@ Why we need this tool?
 --> In that case this tool beeps like an alarm and alerts a trader to pay attention to it and do trading (as we can't sit in front of the exchange console all time)
 
 
+
+
 How to use it?
 
 --> Download Tracker.exe on your computer (it totally safe and do not ask for any login details as its just a monitoring tool that works on the public API of WazirX)

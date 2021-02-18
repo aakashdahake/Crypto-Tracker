@@ -1,6 +1,6 @@
 Hello All,
 
-I have created a tool for Indian Crypto lovers who love to trade on WazirX.com
+I have created a tool for Indian Crypto lovers who love to trade on WazirX.com <BETA VERSION>
 
 What does this tool do?
 --> It alerts trader when his/her set price (Track Price) for selected Cryptocurrency on WazirX reaches to latest buy price at the moment.
@@ -14,6 +14,7 @@ How does it alert?
 Why we need this tool?
 
 --> I observed that we mostly miss the moment when our desired crypto reaches some price where we wanted to trade(buy or sell) it.
+
 --> In that case this tool beeps like an alarm and alerts a trader to pay attention to it and do trading (as we can't sit in front of the exchange console all time)
 
 

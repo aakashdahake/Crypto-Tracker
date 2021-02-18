@@ -14,10 +14,7 @@ How does it alert?
 Why we need this tool?
 
 --> I observed that we mostly miss the moment when our desired crypto reaches some price where we wanted to trade(buy or sell) it.
-
 --> In that case this tool beeps like an alarm and alerts a trader to pay attention to it and do trading (as we can't sit in front of the exchange console all time)
-
-
 
 
 How to use it?

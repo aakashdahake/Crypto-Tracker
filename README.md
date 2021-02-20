@@ -25,16 +25,14 @@ How to use it?
 --> Now Enter the value (you track price) in the Track Price textbox
 --> Select radion button High or Low (if you select High, then when crypto's buy rate exceeds your track price it will alert and vice-versa)
 --> Click on Create Tracker button to start the monitoring process in the background
+--> A tracking job will be created in below box (Current Running Trackers)
 --> When track price is High/Low than current crypto's buy price, your computer will make a beep sound alerting you about the current market situation of your selected Crypto
---> To stop the alert and its beep sound, click on the Stop Tracker button
-
-
+--> To stop the alert, select that tracker job from (Current Running Trackers) window and click Stop Tracker button, the job will be removed and beep sound will stop
 
 ::Note::
 
 --> No malware or virus, just a tool written using Powershell Form and powershell language
---> If you want to create an alert for multiple cryptos, you need to start multiple instances of this application.
---> One tracker window will only monitor one crypto at a time.
+--> Do not press Get Rate button too repeatadle, it will freeze as it will be fetching data and process
 --> Only works on Windows (Tested on Windows 10)
 
 

@@ -12,7 +12,8 @@ I have created a tool for Indian Crypto lovers who love to trade
 >I observed that we mostly miss the moment when our desired crypto reaches some price where we wanted to trade(buy or sell) it. --> In that case this tool beeps like an alarm and alerts a trader to pay attention to it and do trading (as we can't sit in front of the exchange console all time)
 
 ## How to use it?
-- Download Tracker.exe on your computer (it totally safe and do not ask for any login details as its just a monitoring tool that works on the public API of WazirX)
+- Download Tracker.exe on your computer (it totally safe and do not ask for any login details as its just a monitoring tool that works on the public API of WazirX/Binance)
+- In Exchange dropdown, select the exchange from which you want to fetch rate and create tracker alert
 - In coin name dropdown select your crypto or you can write its name, it will display matching results 
 - You can get the latest Buy/Sell Price of that crypto using the Get Price button (it's just to get the latest rate, nothing to do with creating an alert tracker) 
 - Now Enter the value (you track price) in the Track Price textbox 

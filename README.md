@@ -1,9 +1,9 @@
 Hello All,
 
-I have created a tool for Indian Crypto lovers who love to trade on WazirX.com <BETA VERSION>
+I have created a tool for Indian Crypto lovers who love to trade <BETA VERSION>
 
 What does this tool do?
---> It alerts trader when his/her set price (Track Price) for selected Cryptocurrency on WazirX reaches to latest buy price at the moment.
+--> It alerts trader when his/her set price (Track Price) for selected Cryptocurrency reaches to latest buy price at the moment.
 
 
 How does it alert?

@@ -17,7 +17,7 @@ I have created a tool for Indian Crypto lovers who love to trade
 - In coin name dropdown select your crypto or you can write its name, it will display matching results 
 - You can get the latest Buy/Sell Price of that crypto using the Get Price button (it's just to get the latest rate, nothing to do with creating an alert tracker) 
 - Now Enter the value (you track price) in the Track Price textbox 
-- Select refresh time interval, which indicates fetching new price in specific seconds
+- Enter refresh time interval, which indicates fetching new price in specific seconds
 - Select radion button High or Low (if you select High, then when crypto's buy rate exceeds your track price it will alert and vice-versa) 
 - Click on Create Tracker button to start the monitoring process in the background 
 - A tracking job will be created in below box (Current Running Trackers) 

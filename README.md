@@ -24,6 +24,9 @@ I have created a tool for Indian Crypto lovers who love to trade
 - When track price is High/Low than current crypto's buy price, your computer will make a beep sound alerting you about the current market situation of your selected Crypto 
 - To stop the alert, select that tracker job from (Current Running Trackers) window and click Stop Tracker button, the job will be removed and beep sound will stop
 
+- To stop all all alarming tracker click on Clear Alter button
+- In case if user want to stop all Tracker, click Stop All button
+
 ## ::Note::
 - No malware or virus, just a tool written using Powershell Form and powershell language 
 - Do not press Get Rate button too repeatadly, it will freeze as it will be fetching data and process 

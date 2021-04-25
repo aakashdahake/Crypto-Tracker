@@ -34,4 +34,4 @@ I have created a tool for Indian Crypto lovers who love to trade
 ## ::Screenshots::
 
 
-![UI](Tracker.PNG)
+![UI](Tracker.Png)
